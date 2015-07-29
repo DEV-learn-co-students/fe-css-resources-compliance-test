@@ -1,9 +1,4 @@
----
-language: none
-tags: css, style, syntax, selectors
-type: resources
-resources: 10
----
+
 
 ## Resources
 
