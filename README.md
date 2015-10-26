@@ -9,6 +9,7 @@
 - [Learn More Pseudo Selectors](http://css-tricks.com/pseudo-class-selectors/)
 - [CSS3.info - Using Web Fonts](http://www.css3.info/preview/web-fonts-with-font-face/)
 - [CSS Authority, Specificity](https://www.youtube.com/watch?v=In78mSOHmls&feature=youtu.be)
+- [CSS Performance & Organization, Best Practices](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [CSS Validator](http://jigsaw.w3.org/css-validator/)
 - [CSS Diner Online Game](http://flukeout.github.io/)
 - [Adobe - Color Scheme Tool](https://color.adobe.com/create/color-wheel/)
