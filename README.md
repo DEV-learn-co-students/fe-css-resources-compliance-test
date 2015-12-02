@@ -13,3 +13,5 @@
 - [CSS Validator](http://jigsaw.w3.org/css-validator/)
 - [CSS Diner Online Game](http://flukeout.github.io/)
 - [Adobe - Color Scheme Tool](https://color.adobe.com/create/color-wheel/)
+
+<a href='https://learn.co/lessons/fe-css-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
